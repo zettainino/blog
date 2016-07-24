@@ -89,7 +89,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'neonjames@gmail.com'
+    email:    'Email'
     content:  'What would you like to say?'
     subject:  'New submission!'
     submit:   'Say Hello'
