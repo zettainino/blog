@@ -1,5 +1,3 @@
-# zettainino.com
+# [zettainino.com](http://zettainino.com)
 
 Of course, I blog.  
-http://zettainino.com
-s
