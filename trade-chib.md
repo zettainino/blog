@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CHIB
+title: Trade CHIB
 permalink: /trade-chib/
 tags: chib
 ---

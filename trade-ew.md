@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EW
+title: Trade EW
 permalink: /trade-ew/
 tags: ew
 ---

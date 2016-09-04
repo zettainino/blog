@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MBT
+title: Trade MBT
 permalink: /trade-mbt/
 tags: mbt
 ---

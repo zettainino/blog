@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BDO
+title: Trade BDO
 permalink: /trade-bdo/
 tags: bdo
 ---

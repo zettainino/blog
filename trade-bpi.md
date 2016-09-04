@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BPI
+title: Trade BPI
 permalink: /trade-bpi/
 tags: bpi
 ---

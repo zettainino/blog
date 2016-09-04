@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SECB
+title: Trade SECB
 permalink: /trade-secb/
 tags: secb
 ---

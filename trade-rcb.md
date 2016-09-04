@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RCB
+title: Trade RCB
 permalink: /trade-rcb/
 tags: rcb
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PNB
+title: Trade PNB
 permalink: /trade-pnb/
 tags: pnb
 ---

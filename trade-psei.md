@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PSEi
+title: Trade PSEi
 permalink: /trade-psei/
 tags: psei
 ---
