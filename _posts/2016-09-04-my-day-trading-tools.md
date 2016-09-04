@@ -20,19 +20,16 @@ A big factor in my winning trades is the fact that I use the right set of tools.
 
 - [FINVIZ.com — Stock Screener](http://finviz.com/)  
   I use this [custom screener](https://finviz.com/screener.ashx?v=110&s=n_majornews&f=cap_midover,sh_curvol_o2000,sh_price_o10,sh_relvol_o1,ta_averagetruerange_o1&o=-volume&ar=180) with the following filters:  
-  ```bash
-  # Signal
-  n_majornews
 
-  # Filters
-  cap_midover
-  sh_curvol_o2000
-  sh_price_o10
-  sh_relvol_o1
-  ta_averagetruerange_o1
-  ```
+  Signal: Major News  
+  Market Cap: +Mid (over $2bln)  
+  Price: Over $10  
+  Average True Range: Over 1  
+  Relative Volume: Over 1  
+  Current Volume: Over 2M
+
   The only drawback is that the screener is delayed for 15 minutes. The $24.95 Elite subscription is too expensive for me. During my shift, I look for potential trade setups with the stocks that appear in my scanner.  
-  
+
 - [TradingView — free stock charts and quotes online](https://tradingview.com/)
 
   I'm using the PRO Plus Account with exchange subscriptions in NYSE and NASDAQ. One of the cool feature is that I'm able to see extended hours market data.  Here's a snapshot of my charts. I use the VWAP, 9-20-200 EMAs as my indicators and the Daily, 15-5-1 minute time frames.
