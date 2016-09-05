@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade PSEi
-permalink: /trade-psei/
+permalink: /trade/psei/
 tags: psei
 ---
 

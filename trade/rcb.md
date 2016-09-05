@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade RCB
-permalink: /trade-rcb/
+permalink: /trade/rcb/
 tags: rcb
 ---
 

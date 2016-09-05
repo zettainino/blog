@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade Banks and Financials
-permalink: /trade-banks-and-financials/
+permalink: /trade/banks-and-financials/
 tags: bdo bpi chib ew mbt pnb rcb secb ubp
 ---
 

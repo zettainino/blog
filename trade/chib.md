@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade CHIB
-permalink: /trade-chib/
+permalink: /trade/chib/
 tags: chib
 ---
 

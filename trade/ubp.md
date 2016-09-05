@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UBP
-permalink: /trade-ubp/
+permalink: /trade/ubp/
 tags: ubp
 ---
 

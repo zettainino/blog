@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade PNB
-permalink: /trade-pnb/
+permalink: /trade/pnb/
 tags: pnb
 ---
 

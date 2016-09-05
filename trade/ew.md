@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade EW
-permalink: /trade-ew/
+permalink: /trade/ew/
 tags: ew
 ---
 

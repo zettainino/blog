@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade SECB
-permalink: /trade-secb/
+permalink: /trade/secb/
 tags: secb
 ---
 

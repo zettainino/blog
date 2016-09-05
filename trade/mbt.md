@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade MBT
-permalink: /trade-mbt/
+permalink: /trade/mbt/
 tags: mbt
 ---
 

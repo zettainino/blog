@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade BPI
-permalink: /trade-bpi/
+permalink: /trade/bpi/
 tags: bpi
 ---
 

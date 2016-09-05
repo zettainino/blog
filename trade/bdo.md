@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade BDO
-permalink: /trade-bdo/
+permalink: /trade/bdo/
 tags: bdo
 ---
 
