@@ -34,4 +34,4 @@ A big factor in my winning trades is the fact that I use the right set of tools.
 
   I'm using the PRO Plus Account with exchange subscriptions in NYSE and NASDAQ. One of the cool feature is that I'm able to see extended hours market data.  Here's a snapshot of my charts. I use the VWAP, 9-20-200 EMAs as my indicators and the Daily, 15-5-1 minute time frames.
 
-  ![tradingview-chart](https://new.tradingview.com/x/vGzfoDzZ/)
+![tradingview-chart](https://new.tradingview.com/x/vGzfoDzZ/)
