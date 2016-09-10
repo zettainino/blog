@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trade AEV
+title: Trade COSCO
 permalink: /trade/cosco/
 tags: cosco
 ---
