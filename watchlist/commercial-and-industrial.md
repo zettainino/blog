@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Stockcharts of Consumer and Industrial
-permalink: /watchlist/consumer-and-industrial/
+title: Stockcharts of Commerical and Industrial
+permalink: /watchlist/commercial-and-industrial/
 tags: abs ceb eei gma7 ict imi mwc mwide pcor
 ---
 
