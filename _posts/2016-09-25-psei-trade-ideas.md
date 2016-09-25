@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      PSE trade ideas for the week
+title:      PSE trade ideas
 date:       2016-09-25 22:46
 summary:
 categories: trades
@@ -48,8 +48,8 @@ Take profit at 2.03, 2.17, 2.40
 
 #### MCP weekly and daily charts
 ![MCP-wd-20160923](https://www.tradingview.com/x/pse7VP1j/)
-Buy at market  
-Stop loss at 1.44  
+Buy 3.79  
+Stop loss at 3.34    
 Take profit at 5.85, 10.26
 
 #### MEG weekly and daily charts
