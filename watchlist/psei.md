@@ -16,8 +16,11 @@ Consider this as our PSE Watchlist.
 #### [Banks and Financials](http://zettainino.com/watchlist/banks-and-financials/)
 [BDO](http://zettainino.com/watchlist/bdo/), [BPI](http://zettainino.com/watchlist/bpi/), [CHIB](http://zettainino.com/watchlist/chib/), [EW](http://zettainino.com/watchlist/ew/), [MBT](http://zettainino.com/watchlist/mbt/), [PNB](http://zettainino.com/watchlist/pnb/), [RCB](http://zettainino.com/watchlist/rcb/), [SECB](http://zettainino.com/watchlist/secb/), [UBP](http://zettainino.com/watchlist/ubp/)
 
-#### [Consumer and Industrial](http://zettainino.com/watchlist/consumer-and-industrial/)
+#### [Commercial and Industrial](http://zettainino.com/watchlist/commercial-and-industrial/)
 [ABS](http://zettainino.com/watchlist/abs/), [CEB](http://zettainino.com/watchlist/ceb/), [EEI](http://zettainino.com/watchlist/eei/), [GMA7](http://zettainino.com/watchlist/gma7/), [ICT](http://zettainino.com/watchlist/ict/), [IMI](http://zettainino.com/watchlist/imi/), [MWC](http://zettainino.com/watchlist/mwc/), [MWIDE](http://zettainino.com/watchlist/mwide/), [PCOR](http://zettainino.com/watchlist/pcor/)
 
 #### [Conglomerates](http://zettainino.com/watchlist/conglomerates/)
 [AC](http://zettainino.com/watchlist/ac/), [AEV](http://zettainino.com/watchlist/aev/), [AGI](http://zettainino.com/watchlist/agi/), [COSCO](http://zettainino.com/watchlist/cosco/), [DMC](http://zettainino.com/watchlist/dmc/), [FPH](http://zettainino.com/watchlist/fph/), [GTCAP](http://zettainino.com/watchlist/gtcap/), [JGS](http://zettainino.com/watchlist/jgs/), [LTG](http://zettainino.com/watchlist/ltg/), [MPI](http://zettainino.com/watchlist/mpi/), [SM](http://zettainino.com/watchlist/sm/), [SMC](http://zettainino.com/watchlist/smc/)
+
+#### [Consumer](http://zettainino.com/watchlist/consumer/)
+[CIC](http://zettainino.com/watchlist/cic/), [CNPF](http://zettainino.com/watchlist/cnpf/), [DNL](http://zettainino.com/watchlist/dnl/), [EMP](http://zettainino.com/watchlist/emp/), [JFC](http://zettainino.com/watchlist/jfc/), [FPH](http://zettainino.com/watchlist/pgold/), [PIP](http://zettainino.com/watchlist/pip/), [RFM](http://zettainino.com/watchlist/rfm/), [RRHI](http://zettainino.com/watchlist/rrhi/), [URC](http://zettainino.com/watchlist/urc/)
