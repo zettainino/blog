@@ -42,7 +42,7 @@ FLI, MCP, and MEG are the names I would consider buying, mainly because their pr
 
 #### FLI weekly and daily charts
 ![FLI-wd-20160923](https://www.tradingview.com/x/RkGkJIEl/)
-Buy 1.81
+Buy 1.81  
 Stop loss at 1.58 or 1.44  
 Take profit at 2.03, 2.17, 2.40
 
